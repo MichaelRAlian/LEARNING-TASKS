@@ -14,7 +14,7 @@
                         <li><a href="index.html">HOME</a></li>
                         <li><a href="causes.html">CAUSES OF OVER POPULATION</a></li>
                         <li><a href="images.html">THE IMAGES</a></li>
-                        <li><a href="about.html">ABOUT OF OVER POPULATION</a></li> 
+                        <li><a href="about.html">ABOUT   OVER POPULATION</a></li> 
                     </ul>       
         </div>
         </div>
